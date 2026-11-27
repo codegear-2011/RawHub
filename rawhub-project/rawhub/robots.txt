@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://raw-hub.vercel.app/sitemap.xml
